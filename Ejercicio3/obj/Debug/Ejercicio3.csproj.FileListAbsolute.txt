@@ -1,0 +1,5 @@
+C:\Proyectos\Unidades\Unidad04\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Proyectos\Unidades\Unidad04\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Proyectos\Unidades\Unidad04\Ejercicio1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Proyectos\Unidades\Unidad04\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Proyectos\Unidades\Unidad04\Ejercicio1\Ejercicio3\obj\Debug\Ejercicio3.pdb
